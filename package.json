@@ -1,0 +1,8 @@
+{
+  "name": "decentralized-governance-dao",
+  "version": "1.0.0",
+  "description": "DAO Governance Smart Contracts",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
